@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Selehadin
-- 👀 I’m interested in electrical engineering/software development
+- 👀 I’m interested in electrical engineering(Embaded Systems - Ardunio,Micro C // software development /
 - 🌱 I’m currently learning Software Engineering@ALX
 - 💞️ I’m looking to collaborate on software development
 - 📫 How to reach me: selehadinseid1@gmail.com | https://www.linkedin.com/in/selehadin-seid-142104157/
